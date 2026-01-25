@@ -15,6 +15,16 @@
             "driver": "PostgreSQL",
             "name": "app1 railway",
             "connectString": "postgresql://postgres:DKxcEgypjlbVQthOKqyuxrCFveQHbFBE@yamabiko.proxy.rlwy.net:10551/railway"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "db lokal",
+            "database": "fussball2",
+            "username": "postgres"
         }
     ]
 }
