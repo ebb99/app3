@@ -4,4 +4,8 @@
 -- password TEXT NOT NULL,
 -- role TEXT NOT NULL
 -- );
-select * from users;
+
+-- ALTER TABLE users
+-- ADD CONSTRAINT users_name_unique UNIQUE (name);
+
+
