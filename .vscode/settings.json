@@ -13,7 +13,7 @@
             },
             "server": "localhost",
             "driver": "PostgreSQL",
-            "name": "app1 railway",
+            "name": "app3 railway",
             "connectString": "postgresql://postgres:DKxcEgypjlbVQthOKqyuxrCFveQHbFBE@yamabiko.proxy.rlwy.net:10551/railway"
         }
     ]
