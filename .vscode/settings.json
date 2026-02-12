@@ -14,7 +14,7 @@
             "server": "localhost",
             "driver": "PostgreSQL",
             "name": "app3 railway",
-            "connectString": "postgresql://postgres:DKxcEgypjlbVQthOKqyuxrCFveQHbFBE@yamabiko.proxy.rlwy.net:10551/railway"
+            "connectString": "postgresql://postgres:FJbOTyKMpKIcxhpcJZxmNGYXDOlTHVUg@nozomi.proxy.rlwy.net:20652/railway"
         }
     ]
 }
